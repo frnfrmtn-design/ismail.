@@ -1,0 +1,6 @@
+{
+  "name": "Super Pixel Quest",
+  "description": "A zero-copyright 2D retro pixel-art side-scrolling platformer featuring 100 campaign levels, endless mode, procedural 8-bit graphics and audio, carry-forward hearts, and tricky mini-bosses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
